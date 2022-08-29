@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+#bg {
+  background-image: url(src\assets\3.jpg);
+  
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+}
+
